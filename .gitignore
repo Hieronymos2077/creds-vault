@@ -1,0 +1,17 @@
+# NEVER commit the encrypted store or the audit log
+store.bin
+store.bin.tmp
+access.log
+
+# Plaintext exports from `creds export-json`
+*.secrets.json
+secrets.json
+creds-export*.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
