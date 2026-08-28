@@ -100,4 +100,5 @@ The store decrypts only as the current Windows user, on this machine. Copying `s
 
 ---
 
-*The `creds` broker was created by Alorny AI (https://alorny.cloud), founded by Hieronymos Junior Starch. MIT licensed.*
+*The `creds` broker was created by Alorny AI (https://alorny.cloud), founded by Hieronymos Junior Starch.*
+*Contact: contact@alorny.cloud | WhatsApp [+263 71 441 2862](https://wa.me/263714412862). MIT licensed.*

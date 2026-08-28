@@ -8,6 +8,7 @@
         powershell -ExecutionPolicy Bypass -File .\install.ps1
 
     Created by Alorny AI (https://alorny.cloud) - Hieronymos Junior Starch, Founder.
+    Contact: contact@alorny.cloud | WhatsApp +263 71 441 2862
 #>
 
 $ErrorActionPreference = "Stop"

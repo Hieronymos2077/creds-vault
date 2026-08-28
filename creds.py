@@ -21,6 +21,7 @@ Usage:
     creds export-json <file>     decrypt ALL into a plaintext json (emergency use)
 
 Created by Alorny AI (https://alorny.cloud) - Hieronymos Junior Starch, Founder.
+Contact: contact@alorny.cloud | WhatsApp +263 71 441 2862
 MIT licensed.
 """
 

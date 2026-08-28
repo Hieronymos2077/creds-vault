@@ -261,7 +261,9 @@ Created by **Alorny AI**, founded by **Hieronymos Junior Starch**.
 Alorny AI builds AI agents, automation systems and websites for businesses that would rather ship than fiddle.
 
 - Website: [alorny.cloud](https://alorny.cloud)
-- Contact: [contact@alorny.cloud](mailto:contact@alorny.cloud)
+- Email: [contact@alorny.cloud](mailto:contact@alorny.cloud)
+- WhatsApp: [+263 71 441 2862](https://wa.me/263714412862)
+- Phone: [+263 71 441 2862](tel:+263714412862)
 - GitHub: [@Hieronymos2077](https://github.com/Hieronymos2077)
 
 If this saved you from leaking a key, a star costs nothing.
