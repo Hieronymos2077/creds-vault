@@ -1,3 +1,5 @@
+![creds-vault](banner.png)
+
 # creds-vault
 
 A tiny, offline, local secrets broker for AI coding agents on Windows.
@@ -11,6 +13,8 @@ creds get stripe-secret-key
 ```
 
 No cloud. No account. No network calls. One file of Python, no third-party packages.
+
+![A PowerShell session storing a key, listing only the key names, and answering a mistyped name with a suggestion](terminal.png)
 
 ---
 
